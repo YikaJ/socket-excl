@@ -1,0 +1,28 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "first net crawler",
+  "main": "main.js",
+  "keywords": [
+    "node"
+  ],
+  "author": "YikaJ",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "moment": "^2.9.0",
+    "node-xlsx": "^0.5.1",
+    "request": "*",
+    "twix": "^0.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-changed": "^1.1.1",
+    "gulp-concat": "^2.4.3",
+    "gulp-jshint": "^1.9.0",
+    "gulp-livereload": "^3.6.0",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
